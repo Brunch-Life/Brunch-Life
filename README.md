@@ -61,25 +61,18 @@ me.say_hi()
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 #### [RLinf](https://github.com/Brunch-Life/RLinf)
 
 Reinforcement learning infrastructure for **embodied and agentic AI**. Scalable RL training pipelines for VLA models and robotic manipulation.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 #### [GELLO Software](https://github.com/Brunch-Life/gello_software) · [GELLO Teleop](https://github.com/Brunch-Life/gello-teleop)
 
 Teleoperation stack for collecting **high-quality manipulation data** with bimanual leader–follower setups.
-
-</td>
-<td width="33%" valign="top">
-
-#### [DPPO](https://github.com/Brunch-Life/dppo) · [openpi](https://github.com/Brunch-Life/openpi)
-
-Diffusion policy optimization and π₀ — exploring **generative policies** for robot learning.
 
 </td>
 </tr>
