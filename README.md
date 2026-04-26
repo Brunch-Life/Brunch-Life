@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Yinuo%20Chen&fontSize=60&fontAlignY=38&desc=Doctoral%20Student%20%E2%80%A2%20EE%20%E2%80%A2%20Tsinghua%20University&descSize=18&descAlignY=60&animation=twinkling" />
 
 <a href="https://github.com/Brunch-Life">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Embodied+AI+%E2%80%A2+Reinforcement+Learning;Vision-Language-Action+Models;Building+robots+that+learn+to+act;Automating+research+with+LLM+agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Embodied+AI+%E2%80%A2+Reinforcement+Learning;Vision-Language-Action+Models;Building+robots+that+learn+to+act" alt="Typing SVG" />
 </a>
 
 <p>
@@ -26,8 +26,7 @@ class YinuoChen:
         self.affiliation = "Department of EE, Tsinghua University"
         self.location    = "Beijing, China"
         self.research    = ["Embodied AI", "Reinforcement Learning",
-                            "Vision-Language-Action Models",
-                            "LLM Agents for Research"]
+                            "Vision-Language-Action Models"]
         self.currently   = "Teaching robots to act through RL & foundation models"
 
     def say_hi(self):
@@ -62,30 +61,21 @@ me.say_hi()
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### [ARIS — Auto-Research-In-Sleep](https://github.com/Brunch-Life/Auto-claude-code-research-in-sleep)
-
-Lightweight Markdown-only skills for **autonomous ML research**. Cross-model review loops, idea discovery, experiment automation. Works with Claude Code, Codex, OpenClaw, or any LLM agent — no framework, no lock-in.
-
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### [RLinf](https://github.com/Brunch-Life/RLinf)
 
 Reinforcement learning infrastructure for **embodied and agentic AI**. Scalable RL training pipelines for VLA models and robotic manipulation.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### [GELLO Software](https://github.com/Brunch-Life/gello_software) · [GELLO Teleop](https://github.com/Brunch-Life/gello-teleop)
 
 Teleoperation stack for collecting **high-quality manipulation data** with bimanual leader–follower setups.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### [DPPO](https://github.com/Brunch-Life/dppo) · [openpi](https://github.com/Brunch-Life/openpi)
 
