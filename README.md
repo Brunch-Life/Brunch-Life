@@ -16,25 +16,13 @@
 
 ---
 
-### About Me
+### About
 
-```python
-class YinuoChen:
-    def __init__(self):
-        self.name        = "Yinuo Chen"
-        self.role        = "PhD Student"
-        self.affiliation = "Department of EE, Tsinghua University"
-        self.location    = "Beijing, China"
-        self.research    = ["Embodied AI", "Reinforcement Learning",
-                            "Vision-Language-Action Models"]
-        self.currently   = "Teaching robots to act through RL & foundation models"
+Hi, I'm Yinuo — an **Engineering Doctorate (EngD)** student in the Department of Electronic Engineering at Tsinghua University, based in Beijing.
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something cool together!")
+I work on **embodied AI**: teaching robots to perceive, plan, and act through reinforcement learning and vision-language-action models. When I figure something out that's worth writing down, it ends up on [my blog](https://brunch-life.github.io).
 
-me = YinuoChen()
-me.say_hi()
-```
+📫 [brunchlife@hotmail.com](mailto:brunchlife@hotmail.com) · 💻 [@Brunch-Life](https://github.com/Brunch-Life)
 
 ---
 
