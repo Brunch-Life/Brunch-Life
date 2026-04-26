@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <a href="https://brunch-life.github.io"><img src="https://img.shields.io/badge/Blog-brunch--life.github.io-4F8CC9?style=for-the-badge&logo=jekyll&logoColor=white" /></a>
+  <a href="https://brunch-life.github.io/about/"><img src="https://img.shields.io/badge/Blog-brunch--life.github.io-4F8CC9?style=for-the-badge&logo=jekyll&logoColor=white" /></a>
   <a href="mailto:brunchlife@hotmail.com"><img src="https://img.shields.io/badge/Email-brunchlife%40hotmail.com-D44638?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
   <a href="https://github.com/Brunch-Life"><img src="https://komarev.com/ghpvc/?username=Brunch-Life&style=for-the-badge&color=4F8CC9&label=Profile+Views" /></a>
 </p>
@@ -20,7 +20,7 @@
 
 Hi, I'm Yinuo — an **Engineering Doctorate (EngD)** student in the Department of Electronic Engineering at Tsinghua University, based in Beijing.
 
-I work on **embodied AI**: teaching robots to perceive, plan, and act through reinforcement learning and vision-language-action models. When I figure something out that's worth writing down, it ends up on [my blog](https://brunch-life.github.io).
+I work on **embodied AI**: teaching robots to perceive, plan, and act through reinforcement learning and vision-language-action models. When I figure something out that's worth writing down, it ends up on [my blog](https://brunch-life.github.io/about/).
 
 📫 [brunchlife@hotmail.com](mailto:brunchlife@hotmail.com) · 💻 [@Brunch-Life](https://github.com/Brunch-Life)
 
@@ -86,7 +86,7 @@ Teleoperation stack for collecting **high-quality manipulation data** with biman
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 📝 Visit my blog at **[brunch-life.github.io](https://brunch-life.github.io)** for latest tutorials and notes.
+- 📝 Visit my blog at **[brunch-life.github.io](https://brunch-life.github.io/about/)** for latest tutorials and notes.
 <!-- BLOG-POST-LIST:END -->
 
 ---
